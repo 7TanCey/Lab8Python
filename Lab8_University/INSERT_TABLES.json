@@ -1,0 +1,429 @@
+[
+  {
+    "model": "University_Database.student",
+    "pk": 1,
+    "fields": {
+      "surname": "Іванов",
+      "name": "Іван",
+      "patronymic": "Андрійович",
+      "address": "вул. Шевченка, 1",
+      "phone": "0636434671",
+      "course": 3,
+      "faculty": "Аграрного менеджменту",
+      "grup": "A-301",
+      "headman": true
+    }
+  },
+  {
+    "model": "University_Database.student",
+    "pk": 2,
+    "fields": {
+      "surname": "Петров",
+      "name": "Петро",
+      "patronymic": "Петрович",
+      "address": "вул. Лесі Українки, 2",
+      "phone": "0974567312",
+      "course": 2,
+      "faculty": "Економіки",
+      "grup": "E-201",
+      "headman": false
+    }
+  },
+  {
+    "model": "University_Database.student",
+    "pk": 3,
+    "fields": {
+      "surname": "Сидоренко",
+      "name": "Марія",
+      "patronymic": "Володимирівна",
+      "address": "вул. Героїв Майдану, 3",
+      "phone": "0506541270",
+      "course": 4,
+      "faculty": "Аграрного менеджменту",
+      "grup": "A-401",
+      "headman": false
+    }
+  },
+  {
+    "model": "University_Database.student",
+    "pk": 4,
+    "fields": {
+      "surname": "Коваленко",
+      "name": "Олександр",
+      "patronymic": "Олександрович",
+      "address": "вул. Пушкінська, 4",
+      "phone": "0736314210",
+      "course": 1,
+      "faculty": "Інформаційні технології",
+      "grup": "IT-101",
+      "headman": false
+    }
+  },
+  {
+    "model": "University_Database.student",
+    "pk": 5,
+    "fields": {
+      "surname": "Мельник",
+      "name": "Наталія",
+      "patronymic": "Іванівна",
+      "address": "вул. Тарасівська, 5",
+      "phone": "0964357912",
+      "course": 3,
+      "faculty": "Аграрного менеджменту",
+      "grup": "A-301",
+      "headman": false
+    }
+  },
+  {
+    "model": "University_Database.student",
+    "pk": 6,
+    "fields": {
+      "surname": "Стеценко",
+      "name": "Андрій",
+      "patronymic": "Вікторович",
+      "address": "вул. Грушевського, 6",
+      "phone": "0825341634",
+      "course": 2,
+      "faculty": "Економіки",
+      "grup": "E-202",
+      "headman": false
+    }
+  },
+  {
+    "model": "University_Database.student",
+    "pk": 7,
+    "fields": {
+      "surname": "Козак",
+      "name": "Оксана",
+      "patronymic": "Михайлівна",
+      "address": "вул. Коцюбинського, 7",
+      "phone": "0677431276",
+      "course": 4,
+      "faculty": "Інформаційні технології",
+      "grup": "IT-401",
+      "headman": true
+    }
+  },
+  {
+    "model": "University_Database.student",
+    "pk": 8,
+    "fields": {
+      "surname": "Данилюк",
+      "name": "Владислав",
+      "patronymic": "Ігорович",
+      "address": "вул. Гоголя, 8",
+      "phone": "0456421205",
+      "course": 1,
+      "faculty": "Аграрного менеджменту",
+      "grup": "A-101",
+      "headman": false
+    }
+  },
+  {
+    "model": "University_Database.student",
+    "pk": 9,
+    "fields": {
+      "surname": "Савченко",
+      "name": "Юлія",
+      "patronymic": "Андріївна",
+      "address": "вул. Лисенка, 9",
+      "phone": "0679431205",
+      "course": 3,
+      "faculty": "Економіки",
+      "grup": "E-301",
+      "headman": false
+    }
+  },
+  {
+    "model": "University_Database.student",
+    "pk": 10,
+    "fields": {
+      "surname": "Павленко",
+      "name": "Максим",
+      "patronymic": "Олександрович",
+      "address": "вул. Петлюри, 10",
+      "phone": "0551295410",
+      "course": 2,
+      "faculty": "Інформаційні технології",
+      "grup": "IT-201",
+      "headman": false
+    }
+  },
+  {
+    "model": "University_Database.student",
+    "pk": 11,
+    "fields": {
+      "surname": "Кравченко",
+      "name": "Анна",
+      "patronymic": "Сергіївна",
+      "address": "вул. Червоноармійська, 11",
+      "phone": "0889341206",
+      "course": 4,
+      "faculty": "Аграрного менеджменту",
+      "grup": "A-401",
+      "headman": false
+    }
+  },
+  {
+    "model": "University_Database.student",
+    "pk": 12,
+    "fields": {
+      "surname": "Григоренко",
+      "name": "Ігор",
+      "patronymic": "Олексійович",
+      "address": "вул. Курчатова, 12",
+      "phone": "0936542396",
+      "course": 1,
+      "faculty": "Інформаційні технології",
+      "grup": "IT-102",
+      "headman": false
+    }
+  },
+  {
+    "model": "University_Database.student",
+    "pk": 13,
+    "fields": {
+      "surname": "Олійник",
+      "name": "Валентина",
+      "patronymic": "Петрівна",
+      "address": "вул. Гончара, 13",
+      "phone": "0764360135",
+      "course": 3,
+      "faculty": "Економіки",
+      "grup": "E-302",
+      "headman": true
+    }
+  },
+
+
+
+
+
+
+  {
+    "model": "University_Database.subject",
+    "pk": 1,
+    "fields": {
+      "name": "Математика",
+      "hours": 60,
+      "semesters": 2
+    }
+  },
+  {
+    "model": "University_Database.subject",
+    "pk": 2,
+    "fields": {
+      "name": "Програмування",
+      "hours": 120,
+      "semesters": 4
+    }
+  },
+  {
+    "model": "University_Database.subject",
+    "pk": 3,
+    "fields": {
+      "name": "Фізика",
+      "hours": 45,
+      "semesters": 2
+    }
+  },
+  {
+    "model": "University_Database.subject",
+    "pk": 4,
+    "fields": {
+      "name": "Графіка",
+      "hours": 90,
+      "semesters": 3
+    }
+  },
+  {
+    "model": "University_Database.subject",
+    "pk": 5,
+    "fields": {
+      "name": "Бази даних",
+      "hours": 80,
+      "semesters": 3
+    }
+  },
+  {
+    "model": "University_Database.subject",
+    "pk": 6,
+    "fields": {
+      "name": "Біологія",
+      "hours": 30,
+      "semesters": 1
+    }
+  },
+  {
+    "model": "University_Database.subject",
+    "pk": 7,
+    "fields": {
+      "name": "Мови програмування",
+      "hours": 100,
+      "semesters": 4
+    }
+  },
+  {
+    "model": "University_Database.subject",
+    "pk": 8,
+    "fields": {
+      "name": "Дизайн",
+      "hours": 70,
+      "semesters": 2
+    }
+  },
+  {
+    "model": "University_Database.subject",
+    "pk": 9,
+    "fields": {
+      "name": "Англійська мова",
+      "hours": 60,
+      "semesters": 2
+    }
+  },
+  {
+    "model": "University_Database.subject",
+    "pk": 10,
+    "fields": {
+      "name": "Економіка",
+      "hours": 45,
+      "semesters": 1
+    }
+  },
+
+
+
+
+
+
+  {
+    "model": "University_Database.exam",
+    "pk": 1,
+    "fields": {
+      "date": "2023-11-06",
+      "student": 4,
+      "subject": 1,
+      "grade": 4
+    }
+  },
+  {
+    "model": "University_Database.exam",
+    "pk": 2,
+    "fields": {
+      "date": "2023-12-03",
+      "student": 7,
+      "subject": 2,
+      "grade": 5
+    }
+  },
+  {
+    "model": "University_Database.exam",
+    "pk": 3,
+    "fields": {
+      "date": "2023-12-03",
+      "student": 2,
+      "subject": 3,
+      "grade": 3
+    }
+  },
+  {
+    "model": "University_Database.exam",
+    "pk": 4,
+    "fields": {
+      "date": "2023-11-25",
+      "student": 1,
+      "subject": 4,
+      "grade": 5
+    }
+  },
+  {
+    "model": "University_Database.exam",
+    "pk": 5,
+    "fields": {
+      "date": "2023-11-22",
+      "student": 10,
+      "subject": 5,
+      "grade": 4
+    }
+  },
+  {
+    "model": "University_Database.exam",
+    "pk": 6,
+    "fields": {
+      "date": "2023-11-17",
+      "student": 5,
+      "subject": 6,
+      "grade": 3
+    }
+  },
+  {
+    "model": "University_Database.exam",
+    "pk": 7,
+    "fields": {
+      "date": "2023-11-28",
+      "student": 7,
+      "subject": 7,
+      "grade": 5
+    }
+  },
+  {
+    "model": "University_Database.exam",
+    "pk": 8,
+    "fields": {
+      "date": "2023-12-08",
+      "student": 8,
+      "subject": 8,
+      "grade": 4
+    }
+  },
+  {
+    "model": "University_Database.exam",
+    "pk": 9,
+    "fields": {
+      "date": "2023-11-15",
+      "student": 9,
+      "subject": 9,
+      "grade": 3
+    }
+  },
+  {
+    "model": "University_Database.exam",
+    "pk": 10,
+    "fields": {
+      "date": "2023-12-10",
+      "student": 2,
+      "subject": 10,
+      "grade": 5
+    }
+  },
+  {
+    "model": "University_Database.exam",
+    "pk": 11,
+    "fields": {
+      "date": "2023-12-01",
+      "student": 3,
+      "subject": 6,
+      "grade": 4
+    }
+  },
+  {
+    "model": "University_Database.exam",
+    "pk": 12,
+    "fields": {
+      "date": "2023-11-12",
+      "student": 13,
+      "subject": 10,
+      "grade": 3
+    }
+  },
+  {
+    "model": "University_Database.exam",
+    "pk": 13,
+    "fields": {
+      "date": "2023-12-15",
+      "student": 6,
+      "subject": 2,
+      "grade": 5
+    }
+  }
+]
